@@ -11,14 +11,14 @@ namespace BotOfLinkedIn.Core
     public class Observer : IDisposable
     {
         private Timer _timer;
-        private int offset = 0;
+        private int offset = 50;
 
         private Sender _sender;
         private List<UserInfoItem> _items = new();
         public Observer(int countMinutes, Sender sender)
         {
             _sender = sender;
-            _timer = new Timer( _ => CreateRequest(),null,TimeSpan.Zero,
+            _timer = new Timer( async _ => await CreateRequest(),null,TimeSpan.Zero,
                 TimeSpan.FromMinutes(countMinutes));
         }
 
@@ -41,7 +41,7 @@ namespace BotOfLinkedIn.Core
             var getUser = _items.FirstOrDefault(item => item.Info.IsValid);
             try
             {
-                _sender.AddToContact(getUser.GetEntityUrl, getUser.TrackingId);
+                await _sender.AddToContact(getUser.GetEntityUrl, getUser.TrackingId);
                 Console.WriteLine($"По пользователю с trackId {getUser.TrackingId} успешно был отправлен запрос");
                 _items.Remove(getUser);
             }

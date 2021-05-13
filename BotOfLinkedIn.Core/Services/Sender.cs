@@ -35,7 +35,7 @@ namespace BotOfLinkedIn.Core.Services
             var response = await client.GetAsync(url);
             var responseString = await response.Content.ReadAsStringAsync();
             var responseModel = JsonSerializer.Deserialize<UserInfoResponse>(responseString);
-            var content = Convert.ToString(responseModel.Result[1]);
+            var content = Convert.ToString(responseModel.Result.Last());
             var users = JsonSerializer.Deserialize<UserInfoResults>(content);
             return users?.Items.ToList();
         }
