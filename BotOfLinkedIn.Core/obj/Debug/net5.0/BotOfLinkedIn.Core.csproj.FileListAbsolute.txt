@@ -1,0 +1,16 @@
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\bin\Debug\net5.0\BotOfLinkedIn.Core.exe
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\bin\Debug\net5.0\BotOfLinkedIn.Core.deps.json
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\bin\Debug\net5.0\BotOfLinkedIn.Core.runtimeconfig.json
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\bin\Debug\net5.0\BotOfLinkedIn.Core.runtimeconfig.dev.json
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\bin\Debug\net5.0\BotOfLinkedIn.Core.dll
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\bin\Debug\net5.0\ref\BotOfLinkedIn.Core.dll
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\bin\Debug\net5.0\BotOfLinkedIn.Core.pdb
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.csprojAssemblyReference.cache
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.AssemblyInfoInputs.cache
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.AssemblyInfo.cs
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.csproj.CoreCompileInputs.cache
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.dll
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\ref\BotOfLinkedIn.Core.dll
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.pdb
+C:\Users\fomen\RiderProjects\BotOfLinkedIn\BotOfLinkedIn.Core\obj\Debug\net5.0\BotOfLinkedIn.Core.genruntimeconfig.cache
